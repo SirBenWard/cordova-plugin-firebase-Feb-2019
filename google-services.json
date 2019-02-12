@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520807138093",
+    "firebase_url": "https://openwrench-34fc7.firebaseio.com",
+    "project_id": "openwrench-34fc7",
+    "storage_bucket": "openwrench-34fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520807138093:android:d1f8dcb7e9c738b9",
+        "android_client_info": {
+          "package_name": "app.openwrench.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520807138093-18c0677ppfls7meh90dhof9pu82n0q7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EbBqcEHkXo-7eueUnypxguW2taOVNps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
